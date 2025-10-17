@@ -167,7 +167,7 @@ function updateDisplayedImage() {
   localStorage.setItem("currentImageIndex", currentImageIndex);
 }
 
-const imageFiles = ["ems1.png", "ems2.png", "ems3.png", "ems4.png", "ems5.png", "ems6.png", "ems7.png"];
+const imageFiles = ["ems0.png","ems1.png", "ems2.png", "ems3.png", "ems4.png", "ems5.png", "ems6.png", "ems7.png","ems8.png","ems9.png","ems10.png"];
 let currentImageIndex = 0;
 let activeImageElement = null;
 
