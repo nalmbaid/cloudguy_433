@@ -26,7 +26,7 @@ const knownDomains = [
   "veja-store.com", "rains.com", "bombas.com", "allsbirds.com", "sephora.com", "ulta.com",
   "glossier.com", "fentybeauty.com", "kyliecosmetics.com", "rarebeauty.com", "patmcgrath.com",
   "zalora.com", "myntra.com", "ajio.com", "nykaa.com", "asos.co.uk", "boohooman.com",
-  "aboutyou.com", "asos.de", "asos.fr", "asos.com.au","clarks.com","sezane.com"
+  "aboutyou.com", "asos.de", "asos.fr", "asos.com.au","clarks.com","sezane.com","prettylittlething.us"
 ];
 
 const categories = {
